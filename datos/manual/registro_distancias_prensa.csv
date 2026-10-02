@@ -1,0 +1,11 @@
+id,origen,km_min,km_max,fecha_publicacion,medio,url,tipo,nota
+D01,Nogales,87.6,87.6,2022-10-02,El Diario de Sonora,https://eldiariodesonora.com.mx/fe-y-tradicion-caminata-a-magdalena,reportada,Cifra puntual más repetida para la ruta
+D02,Nogales,80,80,2024-10-04,El Imparcial,https://www.elimparcial.com/son/nogales/2024/10/04/en-sonora-peregrinan-mas-de-80-km-por-la-fe-a-san-francisco/,reportada,"""Más de 80 km"""
+D03,Nogales,90,90,2024-10-02,Nuevo Día,https://nuevodia.mx/nogales/2024/10/02/caminan-peregrinos-mas-90-kilometros-pagar-sus-mandas.html,reportada,"""Más de 90 kilómetros"""
+D04,Nogales,85,85,2025-09-24,El Imparcial,https://www.elimparcial.com/son/sonora/2025/09/24/fiestas-de-san-francisco-javier-2025-en-magdalena-de-kino-musica-cultura-y-eventos-religiosos/,reportada,Ruta de 85 km citada en el operativo de Nogales 2025
+D05,Nogales,88,88,2026-09-22,El Diario de Sonora,https://eldiariodesonora.com.mx/nogales/2026/09/22/mas-seguridad-quienes-caminan-magdalena-nogales-activa-codigo-qr-apoyo.html,reportada,"""El trayecto de 88 kilómetros"""
+D06,Nogales,85,85,2026-09-25,El Imparcial,https://www.elimparcial.com/son/sonora/2026/09/25/inician-las-peregrinaciones-por-san-francisco-hacia-magdalena-de-kino-y-autoridades-emiten-recomendaciones-para-recorrer-85-kilometros-con-seguridad/,reportada,Misma semana que D05 y otra cifra
+D07,Nogales,100,100,,Fondazione Padre Kino,https://www.padrekino.org/en/100-km-pellegrinaggio-nogales-magdalena-de-kino/,reportada,Solo titular (error SSL)
+D08,Cananea,100,100,,El Mineral,https://elmineral.com.mx/ver.php?artid=89521&t=17,reportada,"""Una peregrinación peligrosa de 100 kilómetros"""
+D09,Tohono O'odham (desde Nogales),50,90,2014-10-08,Sipse,https://sipse.com/mexico/san-francisco-javier-santo-acostado-tumba-fronteras-116390.html,reportada,Entre 50 y 90 km en cinco días; el compromiso dura cuatro años seguidos
+D10,Nogales,80,80,2025-09-30,Meganoticias,https://www.meganoticias.mx/nogales/noticia/emprenden-peregrinos-recorrido-de-la-fe-hacia-magdalena-de-kino/668334,reportada,"""La travesía abarca 80 kilómetros"""

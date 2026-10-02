@@ -1,0 +1,16 @@
+id,afirmacion,valor,verificado,fuente
+I01,"La cabecera de Magdalena de Kino tenía 30,429 habitantes en 2020","30,429",True,INEGI ITER 2020
+I02,La cabecera creció alrededor de 38% entre 2000 y 2020,38.2%,True,INEGI ITER 2000 y 2020
+I03,Las estimaciones de visitantes equivalen a entre 2 y 5 veces la población del pueblo,1.97x - 4.93x,True,notebook 03
+I04,El multiplicador sigue entre ~1.7x y 5x con cualquier denominador razonable,1.82x - 4.93x,True,notebook 03
+I05,Ningún año entre 2010 y 2019 tiene una cifra de asistencia atribuible,10 de 10 años,True,registro de prensa
+I06,"Solo existe un balance posterior de visitantes totales (60 mil, 2023)",1 balance(s): [60000.0],True,El Imparcial 10/10/2023
+I07,En 2025 circularon cifras de 12 mil a 150 mil en la misma semana,12.5x,True,Expreso; Meganoticias
+I08,Protección Civil estatal cerró 2025 sin cifra de peregrinos atendidos,sin cifra,True,Uniradio Informa 7/10/2025
+I09,"Hay una sola cifra de derrama económica (más de 60 mdp, 2023)",1 cifra(s),True,El Imparcial 10/10/2023
+I10,"La ruta Nogales-Magdalena mide unos 89 km por carretera, y la prensa publica 6 cifras distintas",89.4 km; 6 cifras (80-100),True,OSRM; registro de distancias
+I11,Ninguna ruta de origen cae en el rango de 50-76 km del brief original,0 rutas en rango,True,OSRM
+I12,25 mil caminantes haciendo la ruta completa sumarían más de 2.2 millones de km (55 vueltas a la Tierra),2.24 M km; 56 vueltas,True,notebook 04 (techo)
+I13,2024 fueron las fiestas más calurosas desde 1995 en Magdalena,"2024: 39.4 °C, 11 días ≥35 °C",True,Open-Meteo ERA5
+I14,"Magdalena tiene 13 hoteles y moteles: más que la mediana de Sonora, pero menos de la mitad que Álamos o Puerto Peñasco",13 establecimientos; 0.39 por mil; lugar 4 de 18,True,INEGI DENUE
+I15,La fiesta apenas mueve las visitas a Wikipedia (unas 1.4 veces el resto del año),1.38,True,Wikimedia pageviews

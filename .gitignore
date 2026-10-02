@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+*.egg-info
+
+# Entorno virtual
+.venv
+
+# macOS
+.DS_Store
+
+# Material editorial privado (no se publica en el repositorio)
+Kit_Articulo/
+Articulo/
+Publicacion_Web/
+data/
+RESUMEN_INSIGHTS.md
+
+# Datos crudos: pesados y se regeneran con `uv run python -m src.descarga`
+datos/raw/

@@ -1,0 +1,10 @@
+id,anio,momento,visitantes,denominador,poblacion,veces
+P03,2023,balance,60000.0,"Cabecera, Censo 2020",30429,1.971803214039239
+P03,2023,balance,60000.0,"Municipio, Censo 2020",33049,1.8154860964023116
+P03,2023,balance,60000.0,Cabecera estimada 2025 (proyección),32840,1.8270401948842874
+P07,2024,proyeccion,150000.0,"Cabecera, Censo 2020",30429,4.929508035098097
+P07,2024,proyeccion,150000.0,"Municipio, Censo 2020",33049,4.53871524100578
+P07,2024,proyeccion,150000.0,Cabecera estimada 2025 (proyección),32840,4.5676004872107185
+P13,2026,proyeccion,120000.0,"Cabecera, Censo 2020",30429,3.943606428078478
+P13,2026,proyeccion,120000.0,"Municipio, Censo 2020",33049,3.6309721928046232
+P13,2026,proyeccion,120000.0,Cabecera estimada 2025 (proyección),32840,3.6540803897685747
